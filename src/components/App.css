@@ -1,0 +1,53 @@
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+.App-header {
+  width: auto;
+  height: 50%;
+}
+.container-fluid {
+  background-color: #FFFFDE;
+}
+.white-section {
+  text-align: center;
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+}
+.social-icon {
+  margin: 20px 10px;
+}
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+/* Features Section */
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
